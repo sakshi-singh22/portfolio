@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Vacation Mail",
+    "desc": "A Node.js application using the Express framework to handle Gmail API authentication and automate the process of sending vacation auto-replies for unread messages",
+    "image": "notystackandroid",
+    "category": "basicweb",
+    "links": {
+      "code": "https://github.com/sakshi-singh22/Vacation-Mail.git"
+    }
+  },
+  {
+    "name": "Covid19- Tracker",
+    "desc": "Connected to a COVID-19 API to fetch up-to-date statistics on confirmed cases, recoveries, and deaths globally",
+    "image": "sppuprepandroid",
+    "category": "basicweb",
+    "links": {
+      "code": "https://github.com/sakshi-singh22/Covid19-Tracker.git"
+    }
+  }
+]
